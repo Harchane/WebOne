@@ -56,6 +56,19 @@ header{
 section{
     padding: 100px 200px;
 }
+.main1{color: rgb(64, 64, 64);
+    font-size: 30px;
+    font-family: 'blackchancery';
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+ background-color: rgb(186, 167, 145);
+    background-size: 100%;
+    background-position: cover;
+    background-attachment: fixed;
+    
+}
 .main{
     color: rgb(64, 64, 64);
     font-size: 30px;
@@ -82,6 +95,10 @@ h1{
 }
 #span1{
     font-family: 'blackchancery';
+}
+.main1 h3{
+   font-family: 'blackchancery' ;
+    font-weight: 1000;
 }
 .main h3{
    font-family: 'blackchancery' ;
